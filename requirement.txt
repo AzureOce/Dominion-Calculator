@@ -3,3 +3,4 @@ XlsxWriter==0.9.6
 sip==4.19.2
 PyInstaller==3.2.1
 Pillow==4.1.1
+chardet==3.0.3
